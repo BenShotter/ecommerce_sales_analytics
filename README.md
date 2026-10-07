@@ -20,7 +20,7 @@ behaviour, payment patterns and customer retention.
 
 ### Sales Overview
 
-![Sales Overview](Images/Sales_Overview.png)
+![Sales Overview](E-Commerce project 2026/Images/Sales_Overview.png)
 
 ### Customer & Retention Analysis
 
